@@ -1,0 +1,29 @@
+<!-- // if (isset($_POST["submit"])) { 
+//   // check ID
+//   if(empty($_POST['ID']))
+//   $msg_ID = "You must enter an ID for patient";
+//   if(!empty($_POST['ID'])) {
+//     $ID = $_POST['ID'];
+//     preg_match("@^([1-9][0-9]*)$@", $ID, $ID_match);
+//     if(!$ID_match[0])
+//     $msg2_ID = "Must be non negative integer";
+//   }
+  // check name not null
+  // if(empty($_POST['first']))
+  // $msg_first = "You must enter your first name";
+  // $first = $_POST['first'];
+  // }
+
+  // if(empty($_POST['last']))
+  // $msg_last = "You must enter your last name";
+  // $last = $_POST['last'];
+  // }
+
+  // // check email is valid
+  // if(empty($_POST['email']))
+  // $msg_email = "You must supply your email";
+  // $email = $_POST['email'];
+  // $email_pattern = '/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/';
+  // preg_match($email_pattern, $email, $email_matches);
+  // if(!$email_matches[0])
+  // $msg2_email = "Must be of valid email format"; -->
